@@ -1,4 +1,4 @@
-# Simple NodeJS REST API crud operations
+# Simple NodeJS REST API CRUD Operations
 
 REST API - Representational State Transfer Application Programming Interface
 

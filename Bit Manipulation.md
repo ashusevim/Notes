@@ -1,10 +1,10 @@
 # Bit Manipulation
 
-![Basics 1.png](Bit%20Manipulation/Basics_1.png)
+![Basics 1.png](assets/Bit%20Manipulation/Basics_1.png)
 
-![Basics 2.svg](Bit%20Manipulation/Basics_2.svg)
+![Basics 2.svg](assets/Bit%20Manipulation/Basics_2.svg)
 
-![Basics 3.svg](Bit%20Manipulation/Basics_3.svg)
+![Basics 3.svg](assets/Bit%20Manipulation/Basics_3.svg)
 
 ## Bitwise Complement operator
 
@@ -39,4 +39,4 @@ Let's consider the number N in binary.
 - Thus, we have the relationship: N+∼N=−1.
 - Rearranging this equation gives us ∼N=−1−N, which can be rewritten as **∼N=−(N+1)**.
 
-![Operators.svg](Bit%20Manipulation/Operators.svg)
+![Operators.svg](assets/Bit%20Manipulation/Operators.svg)

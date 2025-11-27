@@ -1,4 +1,4 @@
-# Specificity & cascade
+# Specificity and Cascade
 
 ### **Cascade Algorithm:** The cascade is the algorithm for solving conflicts where multiple CSS rules apply to an HTML element.
 

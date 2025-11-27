@@ -1,4 +1,4 @@
-# 7 HTML and Web features we don't know
+# 7 HTML and Web Features We Don't Know
 
 ## 1. Dialog Element
 

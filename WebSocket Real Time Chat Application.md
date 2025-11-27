@@ -221,7 +221,7 @@ const wss = new WebSocketServer({
 - It is not a typical normal website, it is a websocket chat application so it doesn’t need to authenticate on every single message, it’s connection needs to be authenticated on the very first request from the client
 - The easiest way or method for authentication is token based authentication
 
-![Real Time Chat Application Auth.jpg](Web%20socket%20-%20Real%20time%20chat%20application/Real_Time_Chat_Application_Auth.jpg)
+![Real Time Chat Application Auth.jpg](assets/WebSocket%20Real%20Time%20Chat%20Application/Real_Time_Chat_Application_Auth.jpg)
 
 1. first approach i found (but doesn’t work properly)
 
@@ -581,7 +581,7 @@ wss.on("connection", (ws: ChatWebSocket, req) => {
 
 # Database schema
 
-![websocket-chat DB Schema.jpg](Web%20socket%20-%20Real%20time%20chat%20application/websocket-chat_DB_Schema.jpg)
+![websocket-chat DB Schema.jpg](assets/WebSocket%20Real%20Time%20Chat%20Application/websocket-chat_DB_Schema.jpg)
 
 # Question: Why to use connection-pool in order to connect to the postgres DB?
 
@@ -674,7 +674,7 @@ This prevents database leaks and gives users a much smoother experience.
 1. SIGINT (signal Interrupt): this what your terminal sends to the app when you do (ctrl+c)
 2. SIGTERM (Signal termination): This is the standard, "polite" signal that process managers (like Docker, Kubernetes, or PM2) send to ask your application to shut down cleanly.
 
-![image.png](Web%20socket%20-%20Real%20time%20chat%20application/0e85f089-5734-460d-b752-07a6fef4038c.png)
+![image.png](assets/WebSocket%20Real%20Time%20Chat%20Application/0e85f089-5734-460d-b752-07a6fef4038c.png)
 
 # **proper logging**
 
@@ -753,4 +753,4 @@ wss.on("connection", (ws: ChatWebSocket, req) => {
 - So we need to set up a reverse proxy like Nginx or caddy
 - Reverse proxy will sit in front of your Node.js application, handle the SSL/TLS certificates and forward the encrypted traffic Security to your app running on localhost
 
-![image.png](Web%20socket%20-%20Real%20time%20chat%20application/image.png)
+![image.png](assets/WebSocket%20Real%20Time%20Chat%20Application/image.png)

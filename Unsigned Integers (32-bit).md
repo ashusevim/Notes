@@ -1,4 +1,4 @@
-# Unsigned Intergers (32-bit)
+# Unsigned Integers (32-bit)
 
 A 32-bit unsigned integer is a data type used in computing to store non-negative whole numbers (zero or positive values).
 

@@ -10,6 +10,7 @@ personal notes collection.
 - [BSON (Binary JSON)](BSON%20%28Binary%20JSON%29.md)
 - [Bit Manipulation](Bit%20Manipulation.md)
 - [Cascading Failures](Cascading%20Failures.md)
+- [DB schema & migrations](DB%20schema%20%26%20migrations.md)
 - [DBMS Basics](DBMS%20Basics.md)
 - [Debounce](Debounce.md)
 - [Docker](Docker.md)
@@ -24,6 +25,7 @@ personal notes collection.
 - [Rate Limiting (What and Why)](Rate%20Limiting%20%28What%20and%20Why%29.md)
 - [Recursion Basics](Recursion%20Basics.md)
 - [Reverse Proxy](Reverse%20Proxy.md)
+- [Redis caching+pubsub+streams](Redis%20caching%2Bpubsub%2Bstreams.md)
 - [SQL and NoSQL Diff](SQL%20and%20NoSQL%20Diff.md)
 - [Simple NodeJS REST API CRUD Operations](Simple%20NodeJS%20REST%20API%20CRUD%20Operations.md)
 - [Unsigned Integers (32-bit)](Unsigned%20Integers%20%2832-bit%29.md)
@@ -76,3 +78,6 @@ personal notes collection.
 - [Design Principles - 1](UI%20UX/Design%20Principles%20-%201.md)
 - [Design Principles - 2](UI%20UX/Design%20Principles%20-%202.md)
 - [Typography](UI%20UX/Typography.md)
+
+### Data structures and algorithms
+- [Preorder-Inorder-Postorder-in-One-Traversal](Data%20structures%20and%20algorithms/Preorder-Inorder-Postorder-in-One-Traversal.md)

@@ -19,7 +19,6 @@ The `&lt;dialog&gt;` element represents a dialog box or other interactive compon
     document.getElementById('myDialog').close();
   });
 </script>
-
 ```
 
 [MDN Documentation for Dialog](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog)
@@ -35,7 +34,6 @@ The `popover` attribute creates elements that appear on top of page content when
 </div>
 
 <button popovertarget="myPopover">Show Popover</button>
-
 ```
 
 [W3Schools Documentation for Popover](https://www.w3schools.com/tags/att_popover.asp)
@@ -50,7 +48,6 @@ The `&lt;details&gt;` element creates a disclosure widget that can be opened or 
   <p>This content is hidden by default until the user clicks on the summary.</p>
   <p>You can add any content inside the details element.</p>
 </details>
-
 ```
 
 [MDN Documentation for Details](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/details)
@@ -69,7 +66,6 @@ The `&lt;datalist&gt;` element provides a list of predefined options for an `&lt
   <option value="Edge">
   <option value="Opera">
 </datalist>
-
 ```
 
 [W3Schools Documentation for DataList](https://www.w3schools.com/tags/tag_datalist.asp)
@@ -88,7 +84,6 @@ The `inert` attribute disables user interaction for an element and all its child
 <button onclick="document.querySelector('div').toggleAttribute('inert')">
   Toggle Inert State
 </button>
-
 ```
 
 ## 6. Color Picker
@@ -104,7 +99,6 @@ HTML provides a built-in color picker using `&lt;input type="color"&gt;`.
     document.body.style.backgroundColor = e.target.value;
   });
 </script>
-
 ```
 
 ## 7. HTML Capture
